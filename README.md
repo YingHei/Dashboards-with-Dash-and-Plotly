@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A e-commerce dashboard built with Plotly and Dash.
+An e-commerce dashboard built with Plotly and Dash.
 
 <!-- REQUIREMENTS -->
 ## Requirements
