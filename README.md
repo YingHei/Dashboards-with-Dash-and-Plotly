@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Details of the Project...
+An e-commerce dashboard built with Plotly and Dash.
 
 <!-- REQUIREMENTS -->
 ## Requirements
@@ -31,11 +31,16 @@ Details of the Project...
 ### Library
 
 Python version: (python version)
-* [library](link)
-* [library](link)
-* [library](link)
+* [dash](https://pypi.org/project/dash/)
+* [plotly](https://pypi.org/project/plotly/)
 
 <!-- USAGE -->
 ## Usage
 
-1. 
+1. Navigate to file containing app.py
+
+2. Run in command
+  ```
+  python app.py
+  ```
+3. Open in browser: 127.0.0.1:8050
