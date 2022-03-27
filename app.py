@@ -5,11 +5,8 @@ Created on Mon Mar 21 22:49:17 2022
 
 @author: heifacewong
 
-path: /Users/heifacewong/Desktop/DataScience/DataCamp/Building Dashboards with Dash and Plotly/scripts
-
 command:
 
-    cd Desktop/DataScience/DataCamp/Building\ Dashboards\ with\ Dash\ and\ Plotly/scripts
     python app.py
 
 
@@ -20,8 +17,6 @@ dash app address:
 """
 
 csv_file = 'ecom_sales.csv'
-
-
 
 import dash
 from dash import dcc
