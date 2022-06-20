@@ -22,7 +22,7 @@ import dash
 from dash import dcc
 from dash import html
 import plotly.express as px
-import dash_table
+from dash import dash_table
 from dash_table import DataTable, FormatTemplate
 import pandas as pd
 from dash.dependencies import Input, Output

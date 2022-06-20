@@ -30,7 +30,7 @@ An e-commerce dashboard built with Plotly and Dash.
 <!-- LIBRARY -->
 ### Library
 
-Python version: (python version)
+Python version: 3.8
 * [dash](https://pypi.org/project/dash/)
 * [plotly](https://pypi.org/project/plotly/)
 
